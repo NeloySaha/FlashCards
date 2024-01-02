@@ -1,3 +1,3 @@
 # FlashCards🃏
 
-**_*🚀 Visit Live Demo [HERE](https://date-counter-five.vercel.app/)*_**
+**_*🚀 Visit Live Demo [HERE](https://flash-cards-tau-one.vercel.app/)*_**
